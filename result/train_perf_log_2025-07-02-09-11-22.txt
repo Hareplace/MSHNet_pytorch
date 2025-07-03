@@ -1,0 +1,500 @@
+Epoch 0:
+  Epoch time: 31.06 s
+  Avg batch time: 71.50 ms
+  Train FPS: 55.95 samples/sec
+
+Epoch 1:
+  Epoch time: 35.16 s
+  Avg batch time: 70.82 ms
+  Train FPS: 56.48 samples/sec
+
+Epoch 2:
+  Epoch time: 25.26 s
+  Avg batch time: 64.58 ms
+  Train FPS: 61.94 samples/sec
+
+Epoch 3:
+  Epoch time: 25.87 s
+  Avg batch time: 67.49 ms
+  Train FPS: 59.27 samples/sec
+
+Epoch 4:
+  Epoch time: 25.67 s
+  Avg batch time: 66.61 ms
+  Train FPS: 60.05 samples/sec
+
+Epoch 5:
+  Epoch time: 25.20 s
+  Avg batch time: 65.02 ms
+  Train FPS: 61.52 samples/sec
+
+Epoch 6:
+  Epoch time: 33.15 s
+  Avg batch time: 90.32 ms
+  Train FPS: 44.29 samples/sec
+
+Epoch 7:
+  Epoch time: 34.31 s
+  Avg batch time: 93.21 ms
+  Train FPS: 42.91 samples/sec
+
+Epoch 8:
+  Epoch time: 39.77 s
+  Avg batch time: 97.02 ms
+  Train FPS: 41.23 samples/sec
+
+Epoch 9:
+  Epoch time: 36.77 s
+  Avg batch time: 94.66 ms
+  Train FPS: 42.26 samples/sec
+
+Epoch 10:
+  Epoch time: 34.05 s
+  Avg batch time: 93.75 ms
+  Train FPS: 42.67 samples/sec
+
+Epoch 11:
+  Epoch time: 33.99 s
+  Avg batch time: 93.34 ms
+  Train FPS: 42.85 samples/sec
+
+Epoch 12:
+  Epoch time: 33.83 s
+  Avg batch time: 93.55 ms
+  Train FPS: 42.76 samples/sec
+
+Epoch 13:
+  Epoch time: 33.49 s
+  Avg batch time: 90.98 ms
+  Train FPS: 43.97 samples/sec
+
+Epoch 14:
+  Epoch time: 33.87 s
+  Avg batch time: 94.24 ms
+  Train FPS: 42.45 samples/sec
+
+Epoch 15:
+  Epoch time: 41.20 s
+  Avg batch time: 98.08 ms
+  Train FPS: 40.78 samples/sec
+
+Epoch 16:
+  Epoch time: 33.95 s
+  Avg batch time: 90.59 ms
+  Train FPS: 44.15 samples/sec
+
+Epoch 17:
+  Epoch time: 33.57 s
+  Avg batch time: 92.88 ms
+  Train FPS: 43.07 samples/sec
+
+Epoch 18:
+  Epoch time: 33.92 s
+  Avg batch time: 94.48 ms
+  Train FPS: 42.34 samples/sec
+
+Epoch 19:
+  Epoch time: 34.09 s
+  Avg batch time: 93.70 ms
+  Train FPS: 42.69 samples/sec
+
+Epoch 20:
+  Epoch time: 34.18 s
+  Avg batch time: 93.39 ms
+  Train FPS: 42.83 samples/sec
+
+Epoch 21:
+  Epoch time: 33.84 s
+  Avg batch time: 93.83 ms
+  Train FPS: 42.63 samples/sec
+
+Epoch 22:
+  Epoch time: 41.35 s
+  Avg batch time: 99.30 ms
+  Train FPS: 40.28 samples/sec
+
+Epoch 23:
+  Epoch time: 34.11 s
+  Avg batch time: 93.52 ms
+  Train FPS: 42.77 samples/sec
+
+Epoch 24:
+  Epoch time: 33.75 s
+  Avg batch time: 93.15 ms
+  Train FPS: 42.94 samples/sec
+
+Epoch 25:
+  Epoch time: 33.45 s
+  Avg batch time: 93.19 ms
+  Train FPS: 42.92 samples/sec
+
+Epoch 26:
+  Epoch time: 34.23 s
+  Avg batch time: 93.15 ms
+  Train FPS: 42.94 samples/sec
+
+Epoch 27:
+  Epoch time: 34.27 s
+  Avg batch time: 93.47 ms
+  Train FPS: 42.79 samples/sec
+
+Epoch 28:
+  Epoch time: 35.99 s
+  Avg batch time: 94.90 ms
+  Train FPS: 42.15 samples/sec
+
+Epoch 29:
+  Epoch time: 40.87 s
+  Avg batch time: 98.04 ms
+  Train FPS: 40.80 samples/sec
+
+Epoch 30:
+  Epoch time: 33.83 s
+  Avg batch time: 92.47 ms
+  Train FPS: 43.26 samples/sec
+
+Epoch 31:
+  Epoch time: 33.86 s
+  Avg batch time: 93.14 ms
+  Train FPS: 42.95 samples/sec
+
+Epoch 32:
+  Epoch time: 34.48 s
+  Avg batch time: 93.81 ms
+  Train FPS: 42.64 samples/sec
+
+Epoch 33:
+  Epoch time: 34.27 s
+  Avg batch time: 94.52 ms
+  Train FPS: 42.32 samples/sec
+
+Epoch 34:
+  Epoch time: 34.00 s
+  Avg batch time: 94.20 ms
+  Train FPS: 42.46 samples/sec
+
+Epoch 35:
+  Epoch time: 35.46 s
+  Avg batch time: 91.01 ms
+  Train FPS: 43.95 samples/sec
+
+Epoch 36:
+  Epoch time: 39.70 s
+  Avg batch time: 97.99 ms
+  Train FPS: 40.82 samples/sec
+
+Epoch 37:
+  Epoch time: 33.40 s
+  Avg batch time: 92.85 ms
+  Train FPS: 43.08 samples/sec
+
+Epoch 38:
+  Epoch time: 33.30 s
+  Avg batch time: 92.79 ms
+  Train FPS: 43.11 samples/sec
+
+Epoch 39:
+  Epoch time: 33.99 s
+  Avg batch time: 93.99 ms
+  Train FPS: 42.56 samples/sec
+
+Epoch 40:
+  Epoch time: 34.09 s
+  Avg batch time: 93.62 ms
+  Train FPS: 42.73 samples/sec
+
+Epoch 41:
+  Epoch time: 60.51 s
+  Avg batch time: 157.91 ms
+  Train FPS: 25.33 samples/sec
+
+Epoch 42:
+  Epoch time: 39.72 s
+  Avg batch time: 95.70 ms
+  Train FPS: 41.80 samples/sec
+
+Epoch 43:
+  Epoch time: 32.15 s
+  Avg batch time: 90.97 ms
+  Train FPS: 43.97 samples/sec
+
+Epoch 44:
+  Epoch time: 33.17 s
+  Avg batch time: 93.37 ms
+  Train FPS: 42.84 samples/sec
+
+Epoch 45:
+  Epoch time: 33.19 s
+  Avg batch time: 94.15 ms
+  Train FPS: 42.48 samples/sec
+
+Epoch 46:
+  Epoch time: 33.24 s
+  Avg batch time: 92.94 ms
+  Train FPS: 43.04 samples/sec
+
+Epoch 47:
+  Epoch time: 33.07 s
+  Avg batch time: 92.71 ms
+  Train FPS: 43.14 samples/sec
+
+Epoch 48:
+  Epoch time: 37.11 s
+  Avg batch time: 95.20 ms
+  Train FPS: 42.02 samples/sec
+
+Epoch 49:
+  Epoch time: 38.91 s
+  Avg batch time: 96.41 ms
+  Train FPS: 41.49 samples/sec
+
+Epoch 50:
+  Epoch time: 33.05 s
+  Avg batch time: 94.03 ms
+  Train FPS: 42.54 samples/sec
+
+Epoch 51:
+  Epoch time: 33.02 s
+  Avg batch time: 93.07 ms
+  Train FPS: 42.98 samples/sec
+
+Epoch 52:
+  Epoch time: 32.18 s
+  Avg batch time: 89.92 ms
+  Train FPS: 44.48 samples/sec
+
+Epoch 53:
+  Epoch time: 33.73 s
+  Avg batch time: 94.66 ms
+  Train FPS: 42.26 samples/sec
+
+Epoch 54:
+  Epoch time: 33.15 s
+  Avg batch time: 93.39 ms
+  Train FPS: 42.83 samples/sec
+
+Epoch 55:
+  Epoch time: 38.07 s
+  Avg batch time: 96.86 ms
+  Train FPS: 41.30 samples/sec
+
+Epoch 56:
+  Epoch time: 37.97 s
+  Avg batch time: 96.49 ms
+  Train FPS: 41.45 samples/sec
+
+Epoch 57:
+  Epoch time: 32.36 s
+  Avg batch time: 91.38 ms
+  Train FPS: 43.77 samples/sec
+
+Epoch 58:
+  Epoch time: 32.87 s
+  Avg batch time: 93.01 ms
+  Train FPS: 43.01 samples/sec
+
+Epoch 59:
+  Epoch time: 32.75 s
+  Avg batch time: 92.85 ms
+  Train FPS: 43.08 samples/sec
+
+Epoch 60:
+  Epoch time: 33.01 s
+  Avg batch time: 92.93 ms
+  Train FPS: 43.04 samples/sec
+
+Epoch 61:
+  Epoch time: 33.58 s
+  Avg batch time: 93.88 ms
+  Train FPS: 42.61 samples/sec
+
+Epoch 62:
+  Epoch time: 37.53 s
+  Avg batch time: 96.35 ms
+  Train FPS: 41.51 samples/sec
+
+Epoch 63:
+  Epoch time: 38.29 s
+  Avg batch time: 96.53 ms
+  Train FPS: 41.44 samples/sec
+
+Epoch 64:
+  Epoch time: 33.42 s
+  Avg batch time: 94.17 ms
+  Train FPS: 42.48 samples/sec
+
+Epoch 65:
+  Epoch time: 32.18 s
+  Avg batch time: 89.95 ms
+  Train FPS: 44.47 samples/sec
+
+Epoch 66:
+  Epoch time: 32.21 s
+  Avg batch time: 90.62 ms
+  Train FPS: 44.14 samples/sec
+
+Epoch 67:
+  Epoch time: 33.03 s
+  Avg batch time: 92.78 ms
+  Train FPS: 43.11 samples/sec
+
+Epoch 68:
+  Epoch time: 33.38 s
+  Avg batch time: 92.03 ms
+  Train FPS: 43.46 samples/sec
+
+Epoch 69:
+  Epoch time: 37.21 s
+  Avg batch time: 94.78 ms
+  Train FPS: 42.20 samples/sec
+
+Epoch 70:
+  Epoch time: 36.47 s
+  Avg batch time: 91.89 ms
+  Train FPS: 43.53 samples/sec
+
+Epoch 71:
+  Epoch time: 32.66 s
+  Avg batch time: 92.17 ms
+  Train FPS: 43.40 samples/sec
+
+Epoch 72:
+  Epoch time: 32.04 s
+  Avg batch time: 90.32 ms
+  Train FPS: 44.28 samples/sec
+
+Epoch 73:
+  Epoch time: 32.96 s
+  Avg batch time: 93.11 ms
+  Train FPS: 42.96 samples/sec
+
+Epoch 74:
+  Epoch time: 33.08 s
+  Avg batch time: 93.07 ms
+  Train FPS: 42.98 samples/sec
+
+Epoch 75:
+  Epoch time: 33.50 s
+  Avg batch time: 93.24 ms
+  Train FPS: 42.90 samples/sec
+
+Epoch 76:
+  Epoch time: 37.12 s
+  Avg batch time: 94.67 ms
+  Train FPS: 42.25 samples/sec
+
+Epoch 77:
+  Epoch time: 37.62 s
+  Avg batch time: 96.42 ms
+  Train FPS: 41.49 samples/sec
+
+Epoch 78:
+  Epoch time: 33.40 s
+  Avg batch time: 93.43 ms
+  Train FPS: 42.81 samples/sec
+
+Epoch 79:
+  Epoch time: 32.99 s
+  Avg batch time: 92.82 ms
+  Train FPS: 43.09 samples/sec
+
+Epoch 80:
+  Epoch time: 31.26 s
+  Avg batch time: 87.61 ms
+  Train FPS: 45.66 samples/sec
+
+Epoch 81:
+  Epoch time: 32.49 s
+  Avg batch time: 91.93 ms
+  Train FPS: 43.51 samples/sec
+
+Epoch 82:
+  Epoch time: 33.15 s
+  Avg batch time: 92.64 ms
+  Train FPS: 43.18 samples/sec
+
+Epoch 83:
+  Epoch time: 37.65 s
+  Avg batch time: 96.33 ms
+  Train FPS: 41.52 samples/sec
+
+Epoch 84:
+  Epoch time: 37.51 s
+  Avg batch time: 96.19 ms
+  Train FPS: 41.58 samples/sec
+
+Epoch 85:
+  Epoch time: 32.97 s
+  Avg batch time: 93.51 ms
+  Train FPS: 42.78 samples/sec
+
+Epoch 86:
+  Epoch time: 32.75 s
+  Avg batch time: 93.29 ms
+  Train FPS: 42.88 samples/sec
+
+Epoch 87:
+  Epoch time: 33.02 s
+  Avg batch time: 92.81 ms
+  Train FPS: 43.10 samples/sec
+
+Epoch 88:
+  Epoch time: 33.84 s
+  Avg batch time: 96.02 ms
+  Train FPS: 41.66 samples/sec
+
+Epoch 89:
+  Epoch time: 34.34 s
+  Avg batch time: 97.35 ms
+  Train FPS: 41.09 samples/sec
+
+Epoch 90:
+  Epoch time: 39.38 s
+  Avg batch time: 100.44 ms
+  Train FPS: 39.83 samples/sec
+
+Epoch 91:
+  Epoch time: 35.92 s
+  Avg batch time: 94.57 ms
+  Train FPS: 42.30 samples/sec
+
+Epoch 92:
+  Epoch time: 33.75 s
+  Avg batch time: 95.23 ms
+  Train FPS: 42.00 samples/sec
+
+Epoch 93:
+  Epoch time: 34.42 s
+  Avg batch time: 97.39 ms
+  Train FPS: 41.07 samples/sec
+
+Epoch 94:
+  Epoch time: 34.80 s
+  Avg batch time: 97.09 ms
+  Train FPS: 41.20 samples/sec
+
+Epoch 95:
+  Epoch time: 34.79 s
+  Avg batch time: 96.36 ms
+  Train FPS: 41.51 samples/sec
+
+Epoch 96:
+  Epoch time: 33.85 s
+  Avg batch time: 96.34 ms
+  Train FPS: 41.52 samples/sec
+
+Epoch 97:
+  Epoch time: 39.71 s
+  Avg batch time: 97.84 ms
+  Train FPS: 40.88 samples/sec
+
+Epoch 98:
+  Epoch time: 35.82 s
+  Avg batch time: 98.12 ms
+  Train FPS: 40.77 samples/sec
+
+Epoch 99:
+  Epoch time: 34.51 s
+  Avg batch time: 97.27 ms
+  Train FPS: 41.12 samples/sec
+
